@@ -24,18 +24,24 @@ I am a Senior Network Technician in the Broadband department at the City of Fort
 
 ### Education
 - **Western Governors University**
-  - Bachelor of Science in Software Engineering, Salt Lake City, UT (Expected Graduation: Aug 2025)
+  - Bachelor of Science in Cybersecurity and Information Assurance, Salt Lake City, UT (Expected Graduation: Aug 2025)
   - Coursework includes:
-    - **Software Development**: Principles and practices for developing robust, scalable software solutions, including Java, JavaScript, Python, and mobile application development.
-    - **Data Management**: Concepts in data modeling, database management, SQL, and advanced data management.
-    - **Web and Cloud Security**: Exploration of web development foundations, cloud computing, and security measures.
-    - **Software Design and Quality Assurance**: Best practices in quality analysis, planning, and testing strategies throughout the software development lifecycle.
-    - **Business of IT**: Project management and IT service management (ITIL), including resource allocation, risk management, and performance measurement.
-    - **User Interface and Experience Design**: Techniques for designing effective user interfaces and enhancing user experience.
+    - Cybersecurity Fundamentals: Principles of securing systems, networks, and data, including threat analysis, risk assessment, and mitigation strategies.
+    - Network and System Security: Techniques for protecting network infrastructure, implementing firewalls, intrusion detection systems, and secure configurations.
+    - Data Protection and Cryptography: Concepts in encryption, data integrity, and secure data management practices.
+    - Ethical Hacking and Penetration Testing: Methods for identifying vulnerabilities and testing system defenses to enhance security.
+    - Incident Response and Forensics: Strategies for responding to security breaches, investigating cyber incidents, and preserving digital evidence.
+    - Information Assurance and Compliance: Best practices for ensuring compliance with industry standards (e.g., NIST, ISO, GDPR) and managing IT governance.
 
 ### Certifications
-- **CompTIA A+ ce Certification** (Expires August 19, 2026)
+- **CompTIA A+ ce Certification** (Expires January 24, 2028) 	2028-Jan-24
+- **CompTIA Network+ ce Certification** (Expires August 19, 2026)
+- **CompTIA IT Operations Specialist – CIOS** (Expires August 19, 2026)
+- **CompTIA Security+ ce Certification** (Expires August 19, 2026)
+- **CompTIA Secure Infrastructure Specialist – CSIS** (Expires August 19, 2026)
 - **ISC2 Candidate** (Expires July 31, 2025)
+- **ITIL® Foundation Certification**
+- **LPI Linux Foundations**
 - **Google Cybersecurity Certificate** (Issued January 14, 2024)
 
 ### Skills and Technologies
