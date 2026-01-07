@@ -1,7 +1,7 @@
 ## Hi there 👋, I'm Justin Denny!
 
 ### About Me
-I'm Justin Denny, a Colorado native with a Las Vegas upbringing, currently residing in Fort Collins. My journey began with a transformative experience in the Army, where I developed strong problem-solving skills and learned to maintain composure under pressure. 
+I'm Justin Denny, a Colorado native with a Las Vegas upbringing, currently residing in Windsor, CO. My journey began with a transformative experience in the Army, where I developed strong problem-solving skills and learned to maintain composure under pressure. 
 
 ### Current Role
 I am a Senior Technician in the Broadband department at the City of Fort Collins. With over 5 years of experience, I focus on monitoring and supporting network communications, including LAN/WAN/voice systems. I take pride in resolving complex network issues and ensuring our network hardware and software components are up to date.
