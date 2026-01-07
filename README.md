@@ -34,15 +34,18 @@ I am a Senior Technician in the Broadband department at the City of Fort Collins
     - Information Assurance and Compliance: Best practices for ensuring compliance with industry standards (e.g., NIST, ISO, GDPR) and managing IT governance.
 
 ### Certifications
-- **CompTIA A+ ce Certification** (Expires January 24, 2028) 	2028-Jan-24
-- **CompTIA Network+ ce Certification** (Expires August 19, 2026)
-- **CompTIA IT Operations Specialist – CIOS** (Expires August 19, 2026)
-- **CompTIA Security+ ce Certification** (Expires August 19, 2026)
-- **CompTIA Secure Infrastructure Specialist – CSIS** (Expires August 19, 2026)
-- **ISC2 Candidate** (Expires July 31, 2025)
-- **ITIL® Foundation Certification**
-- **LPI Linux Foundations**
+- **ISC2 Certified in Cybersecurity (CC)** (Expires September 30, 2027)
+- **ITIL® Foundation Certification** (Expires October 07, 2027)
+- **LPI Linux Foundations** (Issued September 21, 2024)
 - **Google Cybersecurity Certificate** (Issued January 14, 2024)
+#### *CompTIA Individual*
+- **CompTIA A+ ce Certification** (Expires January 24, 2028)
+- **CompTIA Network+ ce Certification** (Expires August 19, 2026)
+- **CompTIA Security+ ce Certification** (Expires August 19, 2026)
+#### *CompTIA Stackable*
+- **CompTIA IT Operations Specialist – CIOS** (Expires August 19, 2026)
+- **CompTIA Secure Infrastructure Specialist – CSIS** (Expires August 19, 2026)
+
 
 ### Skills and Technologies
 - Network Communications (LAN/WAN/Voice)
