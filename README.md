@@ -34,7 +34,7 @@ I am a Senior Technician in the Broadband department at the City of Fort Collins
 
 ### Education
 - **Western Governors University**
-  - Bachelor of Science in Cybersecurity and Information Assurance, Salt Lake City, UT (Expected Graduation: Aug 2025)
+  - Bachelor of Science in Cybersecurity and Information Assurance, Salt Lake City, UT (Expected Graduation: MAR 2027)
   - Coursework includes:
     - Cybersecurity Fundamentals: Principles of securing systems, networks, and data, including threat analysis, risk assessment, and mitigation strategies.
     - Network and System Security: Techniques for protecting network infrastructure, implementing firewalls, intrusion detection systems, and secure configurations.
