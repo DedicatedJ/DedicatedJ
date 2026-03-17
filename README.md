@@ -13,12 +13,12 @@ I am a Senior Technician in the Broadband department at the City of Fort Collins
   - Monitor the Network Operations Center (NOC) and generate reports related to broadband operations.
   - Collaborate with Network Engineers, NOC, Customer Service Representatives, and customers to maintain and enhance network standards.
 
-- **Sr Technician, Network Engineer** at the City of Fort Collins
+- **Representative III, Tech Support** at the City of Fort Collins
   - Provided tier II technical customer support.
   - Assisted customers with high-level troubleshooting, technical support, and service modifications.
   - Monitored and answered incoming technical customer support calls and ticketing requests.
 
-- **Technician II, Network Engineer** at the City of Fort Collins
+- **Representative II, Tech Support** at the City of Fort Collins
   - Provided tier I technical customer support.
   - Assisted customers with troubleshooting, technical support, and provisioning new accounts.
  
