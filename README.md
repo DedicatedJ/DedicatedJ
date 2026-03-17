@@ -52,6 +52,7 @@ I am a Senior Technician in the Broadband department at the City of Fort Collins
 - **CompTIA A+ ce Certification** (Expires January 24, 2028)
 - **CompTIA Network+ ce Certification** (Expires August 19, 2026)
 - **CompTIA Security+ ce Certification** (Expires August 19, 2026)
+- **CompTIA Project+ ce Certification** (Expires March 16, 2029)
 #### *CompTIA Stackable*
 - **CompTIA IT Operations Specialist – CIOS** (Expires August 19, 2026)
 - **CompTIA Secure Infrastructure Specialist – CSIS** (Expires August 19, 2026)
